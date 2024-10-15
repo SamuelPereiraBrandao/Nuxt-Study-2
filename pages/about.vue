@@ -10,8 +10,12 @@
   export default {
     name: 'AboutPage',
     head: {
-      title:'About'
+      title:'About',
+      script:[
+      { type:"text/javascript", src: "hello.js"}
+    ]
     },
+  
   }
   </script>
   
