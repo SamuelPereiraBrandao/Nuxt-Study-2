@@ -11,9 +11,9 @@
     name: 'AboutPage',
     head: {
       title:'About',
-      script:[
-      { type:"text/javascript", src: "hello.js"}
-    ]
+    //   script:[
+    //   { type:"text/javascript", src: "hello.js"}
+    // ]
     },
   
   }
